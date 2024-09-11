@@ -21,4 +21,4 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/AirDrawingTracker.git
+   git clone https://github.com/SirOMIT/AirDrawingTracker.git
